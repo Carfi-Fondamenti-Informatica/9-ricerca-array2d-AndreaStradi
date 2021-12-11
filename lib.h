@@ -4,4 +4,3 @@
 bool ricerca(char lista [10][20], char nome[1][20], int &pos);
 
 #endif //ESERCITAZIONE_9_LIB_H
-
