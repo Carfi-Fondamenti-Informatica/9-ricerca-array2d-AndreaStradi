@@ -10,6 +10,7 @@ int main() {
     }
     cin >> f[0];
 
+   
     if (ricerca(a, f, pos)){
         cout << pos << endl;
     }else{
